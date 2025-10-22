@@ -1,18 +1,18 @@
 # ESP32 FreeRTOS Tutorial Collection
 
 This repository collects a series of ESP32 projects demonstrating **FreeRTOS fundamentals** using the **Arduino framework** on **PlatformIO**.  
-Each submodule focuses on a distinct real-time concept—from basic multitasking to modular and event-driven systems.
+Each submodule focuses on a distinct real-time concept-from basic multitasking to modular and event-driven systems.
 
 ## Project Index
 
 | Order | Project | Description |
 |-------|----------|-------------|
-| 1 | [`esp-freertos-task`](./esp-freertos-task) | Core FreeRTOS concepts: tasks, priorities, queues, semaphores, and core pinning. |
-| 2 | [`esp-freertos-timer-statemachine`](./esp-freertos-timer-statemachine) | Event-driven state machine using FreeRTOS queues and software timers. |
-| 3 | [`esp-freertos-eventgroups`](./esp-freertos-eventgroups) | Synchronization and signaling using FreeRTOS Event Groups. |
-| 4 | [`esp-freertos-sensor-led-wifi`](./esp-freertos-sensor-led-wifi) | Modular system architecture combining tasks for sensor, LED, and WiFi management. |
-| 5 | [`esp-rtos-event-loop`](./esp-rtos-event-loop) | ESP IDF Native event loop library with events and queues. |
-| 6 | [`esp-rtos-esp-timer`](./esp-rtos-esp-timer) | ESP IDF Native timer library with . |
+| 1 | [`esp-freertos-task`](https://github.com/royyandzakiy/esp-freertos-task) | Core FreeRTOS concepts: tasks, priorities, queues, semaphores, and core pinning. |
+| 2 | [`esp-freertos-timer-statemachine`](https://github.com/royyandzakiy/esp-freertos-timer-statemachine) | Event-driven state machine using FreeRTOS queues and software timers. |
+| 3 | [`esp-freertos-eventgroups`](https://github.com/royyandzakiy/esp-freertos-eventgroups) | Synchronization and signaling using FreeRTOS Event Groups. |
+| 4 | [`esp-freertos-sensor-led-wifi`](https://github.com/royyandzakiy/esp-freertos-sensor-led-wifi) | Modular system architecture combining tasks for sensor, LED, and WiFi management. |
+| 5 | [`esp-rtos-event-loop`](https://github.com/royyandzakiy/esp-rtos-event-loop) | ESP IDF Native event loop library with events and queues. |
+| 6 | [`esp-rtos-esp-timer`](https://github.com/royyandzakiy/esp-rtos-esp-timer) | ESP IDF Native timer library with. |
 
 ## Getting Started
 
