@@ -1,0 +1,12 @@
+[submodule "esp-freertos-task"]
+	path = esp-freertos-task
+	url = git@github.com:royyandzakiy/esp-freertos-task.git
+[submodule "esp-freertos-timer-statemachine"]
+	path = esp-freertos-timer-statemachine
+	url = git@github.com:royyandzakiy/esp-freertos-timer-statemachine.git
+[submodule "esp-freertos-eventgroups"]
+	path = esp-freertos-eventgroups
+	url = git@github.com:royyandzakiy/esp-freertos-eventgroups.git
+[submodule "esp-freertos-sensor-led-wifi"]
+	path = esp-freertos-sensor-led-wifi
+	url = git@github.com:royyandzakiy/esp-freertos-sensor-led-wifi.git
