@@ -11,6 +11,8 @@ Each submodule focuses on a distinct real-time concept—from basic multitasking
 | 2 | [`esp-freertos-timer-statemachine`](./esp-freertos-timer-statemachine) | Event-driven state machine using FreeRTOS queues and software timers. |
 | 3 | [`esp-freertos-eventgroups`](./esp-freertos-eventgroups) | Synchronization and signaling using FreeRTOS Event Groups. |
 | 4 | [`esp-freertos-sensor-led-wifi`](./esp-freertos-sensor-led-wifi) | Modular system architecture combining tasks for sensor, LED, and WiFi management. |
+| 5 | [`esp-rtos-event-loop`](./esp-rtos-event-loop) | ESP IDF Native event loop library with events and queues. |
+| 6 | [`esp-rtos-esp-timer`](./esp-rtos-esp-timer) | ESP IDF Native timer library with . |
 
 ## Getting Started
 

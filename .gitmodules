@@ -10,3 +10,9 @@
 [submodule "esp-freertos-sensor-led-wifi"]
 	path = esp-freertos-sensor-led-wifi
 	url = git@github.com:royyandzakiy/esp-freertos-sensor-led-wifi.git
+[submodule "esp-rtos-event-loop"]
+	path = esp-rtos-event-loop
+	url = git@github.com:royyandzakiy/esp-rtos-event-loop.git
+[submodule "esp-rtos-esp-timer"]
+	path = esp-rtos-esp-timer
+	url = git@github.com:royyandzakiy/esp-rtos-esp-timer.git
