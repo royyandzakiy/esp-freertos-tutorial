@@ -14,7 +14,7 @@ Each submodule focuses on a distinct real-time concept-from basic multitasking t
 | 5 | [`esp-rtos-event-loop`](https://github.com/royyandzakiy/esp-rtos-event-loop) | ESP IDF Native event loop library with events and queues. |
 | 6 | [`esp-rtos-esp-timer`](https://github.com/royyandzakiy/esp-rtos-esp-timer) | ESP IDF Native timer library with start/stop, periodics, debugging. |
 | 7 | [`esp-rtos-debugging`](https://github.com/royyandzakiy/esp-rtos-debugging) | FreeRTOS Debugging Utilities |
-| 8 | [`esp-rtos-failure`](https://github.com/royyandzakiy/esp-rtos-failure) | FreeRTOS Runtime Error Simulator: Stack Overflow, Memory Corruption, Deadlocks, etc. |
+| 8 | [`esp-rtos-failure <WIP>`](https://github.com/royyandzakiy/esp-rtos-failure) | FreeRTOS Runtime Error Simulator: Stack Overflow, Memory Corruption, Deadlocks, etc. |
 
 ## Getting Started
 
