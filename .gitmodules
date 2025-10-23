@@ -16,3 +16,6 @@
 [submodule "esp-rtos-esp-timer"]
 	path = esp-rtos-esp-timer
 	url = git@github.com:royyandzakiy/esp-rtos-esp-timer.git
+[submodule "esp-rtos-failure"]
+	path = esp-rtos-failure
+	url = git@github.com:royyandzakiy/esp-rtos-failure.git
