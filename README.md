@@ -13,7 +13,8 @@ Each submodule focuses on a distinct real-time concept-from basic multitasking t
 | 4 | [`esp-freertos-sensor-led-wifi`](https://github.com/royyandzakiy/esp-freertos-sensor-led-wifi) | Modular system architecture combining tasks for sensor, LED, and WiFi management. |
 | 5 | [`esp-rtos-event-loop`](https://github.com/royyandzakiy/esp-rtos-event-loop) | ESP IDF Native event loop library with events and queues. |
 | 6 | [`esp-rtos-esp-timer`](https://github.com/royyandzakiy/esp-rtos-esp-timer) | ESP IDF Native timer library with start/stop, periodics, debugging. |
-| 7 | [`esp-rtos-failure`](https://github.com/royyandzakiy/esp-rtos-failure) | FreeRTOS Runtime Error Simulator: Stack Overflow, Memory Corruption, Deadlocks, etc. |
+| 7 | [`esp-rtos-debugging`](https://github.com/royyandzakiy/esp-rtos-debugging) | FreeRTOS Debugging Utilities |
+| 8 | [`esp-rtos-failure`](https://github.com/royyandzakiy/esp-rtos-failure) | FreeRTOS Runtime Error Simulator: Stack Overflow, Memory Corruption, Deadlocks, etc. |
 
 ## Getting Started
 

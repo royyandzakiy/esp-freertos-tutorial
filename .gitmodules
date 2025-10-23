@@ -19,3 +19,6 @@
 [submodule "esp-rtos-failure"]
 	path = esp-rtos-failure
 	url = git@github.com:royyandzakiy/esp-rtos-failure.git
+[submodule "esp-rtos-debugging"]
+	path = esp-rtos-debugging
+	url = git@github.com:royyandzakiy/esp-rtos-debugging.git
