@@ -23,7 +23,7 @@ Each submodule is a self-contained PlatformIO project.
 To clone all modules:
 
 ```bash
-git clone git@github.com:royyandzakiy/esp-freertos-tutorial.git
+git clone https://github.com/royyandzakiy/esp-freertos-tutorial.git
 git submodule update --init --recursive
 ```
 
