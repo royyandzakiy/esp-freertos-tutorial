@@ -15,6 +15,7 @@ Each submodule focuses on a distinct real-time concept-from basic multitasking t
 | 6 | [`esp-rtos-esp-timer`](https://github.com/royyandzakiy/esp-rtos-esp-timer) | ESP IDF Native timer library with start/stop, periodics, debugging. |
 | 7 | [`esp-rtos-debugging`](https://github.com/royyandzakiy/esp-rtos-debugging) | FreeRTOS Debugging Utilities |
 | 8 | [`esp-rtos-failure`](https://github.com/royyandzakiy/esp-rtos-failure) | \<WIP> FreeRTOS Runtime Error Simulator: Stack Overflow, Memory Corruption, Deadlocks, etc. |
+| 9 | [`esp-rtos-percepio`](https://github.com/royyandzakiy/esp-rtos-percepio) | \<WIP> FreeRTOS Task Visualization: Percepio View for Task Execution Analysis |
 
 ## Getting Started
 
