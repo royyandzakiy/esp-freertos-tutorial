@@ -23,6 +23,7 @@ Each submodule focuses on a distinct real-time concept-from basic multitasking t
 | 5 | [`esp-rtos-percepio`](https://github.com/royyandzakiy/esp-rtos-percepio) | \<WIP> FreeRTOS Task Visualization: Percepio View for Task Execution Analysis |
 
 ### Using QEMU to run without hardware (off-target)
+Important Note: This requires to be run using ESP-IDF extension, NOT PlatformIO
 | No | Project | Description |
 |-------|----------|-------------|
 | 1 | [`idf-qemu-freertos-task`](https://github.com/royyandzakiy/idf-qemu-freertos-task) | Running FreeRTOS off-target using QEMU. |
