@@ -22,3 +22,6 @@
 [submodule "esp-rtos-debugging"]
 	path = esp-rtos-debugging
 	url = git@github.com:royyandzakiy/esp-rtos-debugging.git
+[submodule "idf-qemu-freertos-task"]
+	path = idf-qemu-freertos-task
+	url = git@github.com:royyandzakiy/idf-qemu-freertos-task.git
