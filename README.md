@@ -12,15 +12,15 @@ Each submodule focuses on a distinct real-time concept-from basic multitasking t
 | 2 | [`esp-freertos-timer-statemachine`](https://github.com/royyandzakiy/esp-freertos-timer-statemachine) | Event-driven state machine using FreeRTOS queues and software timers. |
 | 3 | [`esp-freertos-sensor-led-wifi`](https://github.com/royyandzakiy/esp-freertos-sensor-led-wifi) | Modular system architecture combining tasks for sensor, LED, and WiFi management. |
 | 4 | [`esp-freertos-eventgroups`](https://github.com/royyandzakiy/esp-freertos-eventgroups) | Synchronization and signaling using FreeRTOS Event Groups. |
-| 5 | [`esp-rtos-failure`](https://github.com/royyandzakiy/esp-rtos-failure) | FreeRTOS Runtime Error Simulator: Stack Overflow, Memory Corruption, Deadlocks, etc. |
-| 6 | [`esp-rtos-debugging`](https://github.com/royyandzakiy/esp-rtos-debugging) | FreeRTOS Debugging Utilities |
-| 7 | [`esp-rtos-percepio`](https://github.com/royyandzakiy/esp-rtos-percepio) | \<WIP> FreeRTOS Task Visualization: Percepio View for Task Execution Analysis |
 
 ### ESP IDF specific RTOS APIs
 | No | Project | Description |
 |-------|----------|-------------|
 | 1 | [`esp-rtos-event-loop`](https://github.com/royyandzakiy/esp-rtos-event-loop) | ESP IDF Native event loop library with events and queues. |
 | 2 | [`esp-rtos-esp-timer`](https://github.com/royyandzakiy/esp-rtos-esp-timer) | ESP IDF Native timer library with start/stop, periodics, debugging. |
+| 3 | [`esp-rtos-failure`](https://github.com/royyandzakiy/esp-rtos-failure) | FreeRTOS Runtime Error Simulator: Stack Overflow, Memory Corruption, Deadlocks, etc. |
+| 4 | [`esp-rtos-debugging`](https://github.com/royyandzakiy/esp-rtos-debugging) | FreeRTOS Debugging Utilities |
+| 5 | [`esp-rtos-percepio`](https://github.com/royyandzakiy/esp-rtos-percepio) | \<WIP> FreeRTOS Task Visualization: Percepio View for Task Execution Analysis |
 
 ### Using QEMU to run without hardware (off-target)
 | No | Project | Description |
